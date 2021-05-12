@@ -1,0 +1,3 @@
+id=1,name=jeff bezos,salary10000.0
+id=2,name=Bill gates,salary20000.0
+id=3,name=Mark Zuckerberg,salary30000.0
